@@ -1,6 +1,6 @@
 ### Greetings! 🎩
-- Feel free to roam around. I learn and add things here..maybe a thing or two would interest you. 
-- 🌸
+ Feel free to roam around. I learn and add things here..maybe a thing or two would interest you. 
+ 🌸
 
 <!--
 **abhiraj-mengade/abhiraj-mengade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
